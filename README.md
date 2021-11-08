@@ -1,2 +1,2 @@
 # playbook-UpdateOs
-ansible playbook for updating os
+ansible playbook for updating OS and reboot OS if needed.
